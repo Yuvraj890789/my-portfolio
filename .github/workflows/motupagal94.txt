@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World"<<endl;
+    cout<<"I am Adhiraj Singh"<<endl;
+    cout<<"I am from modern school"<<endl;
+    cout<<"My favourite game is cricket for outdoor and free fire for indoor"<<endl;
+    cout<<"In cricket my favourite player is MS Dhoni and in free fire are raistar,ajjubhai,white444,etc"<<endl;
+    cout<<"I am pro player in both games"<<endl;
+    cout<<"Once it was a time in 2016 when I played Pokemon go . Till 2018 I played that game"<<endl;
+    cout<<"I also watch Pokemon on television"<<endl;
+    cout<<"Overall I like pokemon,free fire,and cricket"<<endl;
+    cout<<"I want to become a youtuber whose content would be gaming,vlogging and comedy videos"<<endl;
+    cout<<"I also want to become computer engineer or chatter account aside with it "<<endl;
+    cout<<"THANK YOU"<<endl;
+    return 0;
+}
